@@ -12,7 +12,7 @@ export class QuestionsService {
 
   constructor(private httpService: HttpService) {}
 
-  async findAll(): Promise<Question[]> {
+  async getTenQuestions(): Promise<Question[]> {
     const response = await this.httpService.get<Question[]>('https://opentdb.com/api.php?amount=10&type=multiple').toPromise();
     this.questions = response.data;
     return this.questions;

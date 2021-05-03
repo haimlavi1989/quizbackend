@@ -7,16 +7,9 @@ import { response } from 'express';
 export class QuestionsController {
   constructor(private readonly questionsService: QuestionsService) {}
 
-/*   @Get()
-  getHello(): string {
-    return this.questionsService.getHello();
-  } */
-
   @Get()
 
   async getAllQuestions() {
-    
-    return await this.questionsService.findAll();
-
+    return await this.questionsService.getTenQuestions();
   }
 }
