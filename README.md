@@ -17,11 +17,12 @@ Display 10 Questions on carousel view (use PrimeNG Library)
 • The user should see final results when done ( answered correctly 7 out of 10 )
 ```
 <p align="center">
-<img src="https://drive.google.com/file/d/1J4kydGeXyDObgjlX0iF77Bq2ybbUgEpt">
+<img src="https://drive.google.com/uc?export=view&id=1J4kydGeXyDObgjlX0iF77Bq2ybbUgEpt">
 </p>  
 
-## The application is served on
-https://quizappnesjs.herokuapp.com/
+## Demo application
+The application is served **<a href="https://quizappnesjs.herokuapp.com/">here</a>**
+
 
 ## Installation
 
