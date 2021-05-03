@@ -16,7 +16,9 @@ Display 10 Questions on carousel view (use PrimeNG Library)
 • The user should be able to re generate all questions and restart.
 • The user should see final results when done ( answered correctly 7 out of 10 )
 ```
-<img src="https://drive.google.com/file/d/1J4kydGeXyDObgjlX0iF77Bq2ybbUgEpt/view?usp=sharing">
+<p align="center">
+<img src="https://drive.google.com/file/d/1J4kydGeXyDObgjlX0iF77Bq2ybbUgEpt">
+</p>  
 
 ## The application is served on
 https://quizappnesjs.herokuapp.com/
